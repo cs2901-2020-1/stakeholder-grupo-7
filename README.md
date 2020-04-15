@@ -4,4 +4,4 @@
 * Fabrizio Garcia - 201810160
 * Nicolas Figueroa - 201810294
 * Rodrigo Cespedes - 201810434
-* Daniel Rojas - 201820068
+* Daniel Rojas - 201720086
